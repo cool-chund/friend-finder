@@ -1,3 +1,3 @@
 function whatJerryShouldDo() {
-    console.log('GET A JOB JERRY!');
+    console.log('Just be yourself');
 }
